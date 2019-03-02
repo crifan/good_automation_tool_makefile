@@ -1,0 +1,19 @@
+{
+  "title": "自动化利器：Makefile",
+  "description": "总结Makefile的用途和给出实例如何自动化任务以提高效率",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "good_automation_tool_makefile"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/good_automation_tool_makefile/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/good_automation_tool_makefile/pdf/good_automation_tool_makefile.pdf"
+    }
+  }
+}
